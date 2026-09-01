@@ -31,6 +31,11 @@ pip install -r requirements.txt
 <ul>
   <li> :file_folder: <b>Esfinge Vinícius Marianno De Marque Cutolo</b>: contém os notebooks didáticos da entrega.</li>
     <ul>
+      <li> :file_folder: <b>Imagens cabeçalho</b></li>
+        <ul>
+          <li> :file_folder: <b>Cabecalho.png</b>: Imagem do cabeçalho</li>
+          <li> :file_folder: <b>Rodape_eleição.png</b>: Imagem do rodapé</li>
+        </ul>
       <li> :file_folder: <b>Data</b></li>
         <ul>
           <li> :file_folder: <b>raw</b></li>
