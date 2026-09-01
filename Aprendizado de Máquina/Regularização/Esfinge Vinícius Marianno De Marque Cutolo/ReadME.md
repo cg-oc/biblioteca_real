@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Matéria-Machine%20Learning-green">
 </p>
 
-Entrega esfinge para a matéria de Machine Learning de 2026. Essa tarefa teve como objetivo desenvolver a teoria e a aplicabilidade da regularização L1 e L2. O projeto buscou apresentar problemas em que uma regressão OLS comum começa a falhar, desenvolver a teoria e as consequências de cada regularização e apresentar exemplos que eles resolvem. Os exemplos teóricos usam datasets sintéticos feitos para exemplificar os problemas, já o prático tenta prever como um pulso se movimenta a partir de um EEG
+Entrega esfinge para a matéria de Machine Learning de 2026. Essa tarefa teve como objetivo desenvolver a teoria e a aplicabilidade da regularização L1 e L2. O projeto buscou apresentar problemas em que uma regressão OLS comum começa a falhar, desenvolver a teoria e as consequências de cada regularização e apresentar exemplos que eles resolvem. Os exemplos teóricos usam datasets sintéticos feitos para exemplificar os problemas, já o prático tenta prever como um pulso se movimenta a partir de um EEG. Por fim, todas as referências e o apêndice são colocadas ao fim do Notebook do exemplo prático.
 
 ## Como executar:
 
@@ -50,7 +50,9 @@ pip install -r requirements.txt
 
 ## XKCD relevante:
 
-  ![img](https://imgs.xkcd.com/comics/curve_fitting.png)
+  ![img](https://imgs.xkcd.com/comics/compiling.png)
+
+  Disponível em: [xkcd.com](https://xkcd.com/303/)
 
 ## Professores avaliadores:
 
