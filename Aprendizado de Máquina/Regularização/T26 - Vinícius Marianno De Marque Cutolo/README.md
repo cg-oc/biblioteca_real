@@ -9,7 +9,9 @@
   <img src="https://img.shields.io/badge/Matéria-Machine%20Learning-green">
 </p>
 
-Entrega esfinge para a matéria de Machine Learning de 2026. Essa tarefa teve como objetivo desenvolver a teoria e a aplicabilidade da regularização L1 e L2. O projeto buscou apresentar problemas em que uma regressão OLS comum começa a falhar, desenvolver a teoria e as consequências de cada regularização e apresentar exemplos que eles resolvem. Os exemplos teóricos usam datasets sintéticos feitos para exemplificar os problemas, já o prático tenta prever como um pulso se movimenta a partir de um EEG
+Entrega esfinge para a matéria de Machine Learning de 2026. Essa tarefa teve como objetivo desenvolver a teoria e a aplicabilidade da regularização L1 e L2. O projeto buscou apresentar problemas em que uma regressão OLS comum começa a falhar, desenvolver a teoria e as consequências de cada regularização e apresentar exemplos que eles resolvem. Os exemplos teóricos usam datasets sintéticos feitos para exemplificar os problemas, já o prático tenta prever como um pulso se movimenta a partir de um EEG. 
+
+Um aviso ao leitor, se atente a rodar o notebook por completo. A seção final de *Modelos Preditivos* é extremamente custosa de ser rodada, podendo demorar 3 horas. Por isso, rode por sua conta em risco.
 
 ## Como executar:
 
@@ -24,7 +26,7 @@ Aqui vai o passo a passo de como executar esse programa:
 pip install -r requirements.txt
 ```
 
-4. Leia os notebooks nessa ordem: *Introdução*, *Desenvolvimento*, *Exemplos teóricos* e *Exemplo Prático*
+4. Abra e leia o notebook
 
 ## Conteúdo:
 
@@ -43,10 +45,7 @@ pip install -r requirements.txt
             <li> :file_folder: <b>P1</b>: Contém o dataset utilizado em <b>Exemplo_prático.ipynb</b></li>
             </ul>
         </ul>
-      <li> :page_facing_up: <b>Introdução</b>: Notebook de abertura, contém a introdução, a teoria de regressão linear e os problemas motivadores.</li>
-      <li> :page_facing_up: <b>Desenvolvimento</b>: Notebook que tem toda a teoria sobre regularização L2 e L1.</li>
-      <li> :page_facing_up: <b>Exemplos_teóricos.ipynb</b>: Notebook com dois problemas simbólicos que foram apresentados na introdução.</li>
-      <li> :page_facing_up: <b>Exemplo_prático.ipynb</b>: Notebook final, contém o desenvolvimento do tratamento do EEG, os apêndices, as referências e a seção sobre uso de IA.</li>
+      <li> :page_facing_up: <b>T26 - Vinícius Marianno De Marque Cutolo.ipynb</b>: Notebook final com todo o conteúdo da entrega.</li>
       <li> :spiral_notepad: <b>requirements.txt</b>: txt com todas as bibliotecas necessárias para rodar o projeto.</li>
       <li> :spiral_notepad: <b>README.md</b>: ReadME padrão dessa entrega.</li>
     </ul>
