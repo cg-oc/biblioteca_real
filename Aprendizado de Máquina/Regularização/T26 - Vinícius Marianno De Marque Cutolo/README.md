@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.13-blue">
-  <img src="https://img.shields.io/badge/Área-Neurology%20Simulation-purple">
+  <img src="https://img.shields.io/badge/Área-Neurology%20Algorithm-purple">
   <img src="https://img.shields.io/badge/Matéria-Machine%20Learning-green">
 </p>
 
@@ -29,12 +29,12 @@ pip install -r requirements.txt
 ## Conteúdo:
 
 <ul>
-  <li> :file_folder: <b>Esfinge Vinícius Marianno De Marque Cutolo</b>: contém os notebooks didáticos da entrega.</li>
+  <li> :file_folder: <b>T26 - Vinícius Marianno De Marque Cutolo</b>: contém os notebooks didáticos da entrega.</li>
     <ul>
       <li> :file_folder: <b>Imagens cabeçalho</b></li>
         <ul>
-          <li> :file_folder: <b>Cabecalho.png</b>: Imagem do cabeçalho</li>
-          <li> :file_folder: <b>Rodape_eleição.png</b>: Imagem do rodapé</li>
+          <li> :flower_playing_cards: <b>Cabecalho.png</b>: Imagem do cabeçalho</li>
+          <li> :flower_playing_cards: <b>Rodape_eleição.png</b>: Imagem do rodapé</li>
         </ul>
       <li> :file_folder: <b>Data</b></li>
         <ul>
@@ -48,7 +48,7 @@ pip install -r requirements.txt
       <li> :page_facing_up: <b>Exemplos_teóricos.ipynb</b>: Notebook com dois problemas simbólicos que foram apresentados na introdução.</li>
       <li> :page_facing_up: <b>Exemplo_prático.ipynb</b>: Notebook final, contém o desenvolvimento do tratamento do EEG, os apêndices, as referências e a seção sobre uso de IA.</li>
       <li> :spiral_notepad: <b>requirements.txt</b>: txt com todas as bibliotecas necessárias para rodar o projeto.</li>
-      <li> :spiral_notepad: <b>ReadME.md</b>: ReadME padrão dessa entrega.</li>
+      <li> :spiral_notepad: <b>README.md</b>: ReadME padrão dessa entrega.</li>
     </ul>
   </ul>
 </ul>
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
   Disponível em: [xkcd.com](https://xkcd.com/303/)
 
-## Professores avaliadores:
+## Professor avaliador:
 
 <table>
   <tr>
