@@ -1,0 +1,23 @@
+* Tomos didáticos da Biblioteca Real de Lumi
+
+Este repositório reúne em um único lugar o material didático produzido pelos estudantes da Ilum Escola de Ciência. Ao longo do curso, os estudantes são convidados a explorar diferentes temas e a consolidar o conhecimento adquirido por meio da criação de materiais didáticos próprios.
+
+O projeto ainda está em fase inicial de implementação. Em breve, este README será atualizado com mais informações.
+
+** Como submeter seu material didático?
+
+Para adicionar seu material a este repositório, siga os passos abaixo:
+
+1. Faça um fork deste repositório na sua conta do GitHub
+2. Adicione seu material didático no local apropriado dentro do fork
+3. Abra um Pull Request
+  
+Caso você não tenha uma conta no GitHub, entre em contato.
+
+** Nomenclatura dos arquivos
+
+O nome deve seguir o padrão: *identificador da turma + espaço + hífen + espaço + nome completo*.
+
+- *Arquivo único:* nomeie o arquivo seguindo o padrão acima e mantenha a extensão original. Exemplo: =T25 - Diana Didatolov.pdf=
+  
+- *Múltiplos arquivos:*  crie uma pasta com o nome no padrão acima e adicione todos os arquivos dentro dela, sem necessidade de renomeá-los individualmente. Mesmo assim, certifique-se que os nomes dos arquivos são razoáveis.
