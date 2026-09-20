@@ -1,4 +1,3 @@
-<!-- CABEÇALHO -->
 <div align="center">
   <img src="figures/cabecalho_branco.jpg" alt="Cabeçalho" width="100%">
 </div>
@@ -16,6 +15,10 @@ Construindo didaticamente a lógica desde a regressão linear até os modelos de
 4. ⚖️ Viés, variância e métodos de encolhimento 
 5. 🧪 Pondo em prática: Dados sintéticos 🧪
 6. 🫙 O índice de refração de vidros 
+7. 📝 Considerações finais
+- 🤖 Uso de IA neste trabalho
+- 📚 Referências
+- 🖇️ Apêndice
 
 
 ## 📦 Instalação
