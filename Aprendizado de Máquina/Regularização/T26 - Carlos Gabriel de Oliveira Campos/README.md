@@ -7,6 +7,7 @@
 
 Construindo didaticamente a lógica desde a regressão linear até os modelos de encolhimento ridge e lasso.
 
+
 ## 📑 Sumário
 
 1. 📈 Uma breve introdução à regressão linear 
@@ -15,6 +16,7 @@ Construindo didaticamente a lógica desde a regressão linear até os modelos de
 4. ⚖️ Viés, variância e métodos de encolhimento 
 5. 🧪 Pondo em prática: Dados sintéticos 🧪
 6. 🫙 O índice de refração de vidros 
+
 
 ## 📦 Instalação
 
@@ -60,7 +62,7 @@ Aluno do segundo semestre de Ciência e Tecnologia, na Ilum Escola de Ciência
 ---
 
 
-## Agradecimentos
+## 🌟 Agradecimentos
 
 **Edélio Gabriel**
 - **Contato:** `edelio25024@ilum.cnpem.br`
