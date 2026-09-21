@@ -16,7 +16,7 @@ Construindo didaticamente a lógica desde a regressão linear até os modelos de
 5. 🧪 Pondo em prática: Dados sintéticos 🧪
 6. 🫙 O índice de refração de vidros 
 7. 📝 Considerações finais
-- 🤖 Uso de IA neste trabalho
+- 🤖 Descrição do uso de IA neste trabalho
 - 📚 Referências
 - 🖇️ Apêndice
 
