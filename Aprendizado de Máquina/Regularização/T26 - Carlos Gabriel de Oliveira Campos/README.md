@@ -6,6 +6,9 @@
 
 Construindo didaticamente a lógica desde a regressão linear até os modelos de encolhimento ridge e lasso.
 
+## 📖 Conteúdo
+
+Toda a leitura do material está disponível no Jupyter Notebook `regularization_L1_L2.ipynb` de maneira **autocontida**. Isto significa que um estudante que nunca ouviu falar do tema deve conseguir acompanhar e executar o conteúdo do início ao fim! Ademais, o diretório `data` armazena todos os arquivos de dados `.csv` e `.pkl` utilizados, assim como o diretório `figures` guarda todas as figuras apresentadas. Por fim, o arquivo de job `job_decomp.sh` serve para rodar o script informado no Notebook. 
 
 ## 📑 Sumário
 
@@ -30,10 +33,6 @@ git clone https://github.com/cg-oc/machine-learning.git
 cd machine-learning
 pip install -r requirements.txt
 ```
-
-## 📖 Conteúdo
-
-Toda a leitura do material está disponível no Jupyter Notebook `regularization_L1_L2.ipynb` de maneira **autocontida**. Isto significa que um estudante que nunca ouviu falar do tema deve conseguir acompanhar e executar o conteúdo do início ao fim! Ademais, o diretório `data` armazena todos os arquivos de dados `.csv` e `.pkl` utilizados, assim como o diretório `figures` guarda todas as figuras apresentadas. Por fim, o arquivo de job `job_decomp.sh` serve para rodar o script informado no Notebook. 
 
 ## 🐍 Versão do Python e módulos
 
